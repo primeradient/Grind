@@ -1,26 +1,27 @@
 **Creational Patterns:**
 
-Abstract Factory : https://github.com/Grind/patterns/tree/master/src/main/java/AbstractFactory
-Factory : https://github.com/Grind/patterns/tree/master/src/main/java/Factory
-Prototype : https://github.com/Grind/patterns/tree/master/src/main/java/Prototype
-Builder : https://github.com/Grind/patterns/tree/master/src/main/java/Builder
-Singelton : https://github.com/Grind/patterns/tree/master/src/main/java/Singelton
+
+1. Abstract Factory : https://github.com/primeradient/Grind/tree/main/src/main/java/patterns/AbstractFactory
+2. Factory : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Factory
+3. Prototype : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Prototype
+4. Builder : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Builder
+5. Singelton : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Singelton
 
 
 **Structural Patterns:**
 
-Composite : https://github.com/Grind/patterns/tree/master/src/main/java/Composite
-Facade : https://github.com/Grind/patterns/tree/master/src/main/java/Facade
-Decorator : https://github.com/Grind/patterns/tree/master/src/main/java/Decorator
-Flyweight : https://github.com/Grind/patterns/tree/master/src/main/java/Flyweight
-Proxy : https://github.com/Grind/patterns/tree/master/src/main/java/Proxy
-Adapter : https://github.com/Grind/patterns/tree/master/src/main/java/Adapter
+1. Composite : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Composite
+2. Facade : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Facade
+3. Decorator : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Decorator
+4. Flyweight : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Flyweight
+5. Proxy : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Proxy
+6. Adapter : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Adapter
 
 
 **Behavioural Patterns:**
 
-Observer : https://github.com/Grind/patterns/tree/master/src/main/java/Observer
-Command : https://github.com/Grind/patterns/tree/master/src/main/java/Command
-Chain of Resp. : https://github.com/Grind/patterns/tree/master/src/main/java/ChainOfResponsibility
-Strategy : https://github.com/Grind/patterns/tree/master/src/main/java/Stretegy
-Visitor : https://github.com/Grind/patterns/tree/master/src/main/java/Visitor
+1. Observer : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Observer
+2. Command : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Command
+3. Chain of Resp. : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/ChainOfResponsibility
+4. Strategy : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Stretegy
+5. Visitor : https://github.com/primeradient/Grind/patterns/tree/master/src/main/java/Visitor
